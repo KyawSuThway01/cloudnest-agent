@@ -27,7 +27,7 @@ cloudnest-agent/
 
 ## Setup
 
-Requirements: Python 3.10 or newer and a free Gemini API key from https://aistudio.google.com.
+Requirements: Python 3.12.10 or newer and a free Gemini API key from https://aistudio.google.com.
 
 ```bash
 python -m venv venv
